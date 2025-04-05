@@ -33,12 +33,13 @@ When the game starts, a welcome message will appear, followed by your first ques
 
 
 ### How to Quit the Game
-To exit the game at any time, type: `quit` and press Enter. <br> After quitting, a final message will appear showing: 
-- Your final score
-- Your percentage score
-- Feedback based on your overall performance:
-  - Well done!
-  - Good try
-  - Keep practising
+You can exit the game at any time by typing `quit` and pressing Enter. The game will then show a summary, which includes: 
+
+- Your total score
+- Your score as a percentage 
+- Feedback based on your performance:
+  - Well done! - if you got everything right (100%)
+  - Good try - if you scored 60% or more
+  - Keep practising - if your score was below 60%
 
 <div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
