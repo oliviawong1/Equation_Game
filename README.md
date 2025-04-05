@@ -38,8 +38,8 @@ You can exit the game at any time by typing `quit` and pressing Enter. The game 
 - Your total score
 - Your score as a percentage 
 - Feedback based on your performance:
-  - Well done! - if you got everything right (100%)
-  - Good try - if you scored 60% or more
-  - Keep practising - if your score was below 60%
+  - Well done! - for getting everything right (100%)
+  - Good try - for a score of 60% or more
+  - Keep practising - for a score below 60%
 
 <div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
