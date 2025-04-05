@@ -6,6 +6,10 @@ The Equation Game is a simple, interactive maths quiz designed to help you pract
 
 The game tracks your score throughout the session and provides feedback at the end. It runs in a terminal and is user-friendly to those with no prior knowledge of Python or programming. 
 
+### Table of Contents
+- [How to Run the Game](#how-to-run-the-game)
+- [How to Play the Game](#how-to-play-the-game)
+
 ### How to Run the Game
 #### 1. Open a Terminal or Command Prompt
 - On Mac, open Terminal from Applications > Utilities
@@ -24,3 +28,6 @@ If your system uses Python 3, type: <br>
 
 Once the game starts, a welcome message will appear, followed by your first question.
 
+<div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
+
+### How to Play the Game
