@@ -12,3 +12,9 @@ The game tracks your score throughout the session and provides feedback at the e
 
 #### 3. Run the game
 Based on your system's Python version, type one of the following commands and press Enter:
+
+`python main.py`
+
+`python3 main.py`
+
+
