@@ -98,7 +98,7 @@ This document provides a technical overview of the Equation Game, a Python-based
 ### Table of Contents
 - [File Structure](#file-structure)
 - [Game Flow and Logic](#game-flow-and-logic)
-- [Functions Overview](#functions-overview)
+- [Overview of Game Functions](#overview-of-game-functions)
 
 ### File Structure
 The Equation Game consists into two main Python files:
@@ -146,5 +146,9 @@ The game keeps track of the user's score, which increase by 1 point for each cor
 
 #### 6. Game Continuation or Exit  
 After each round, the loop repeats until the user enters ```quit``` which ends the game with a final score and message based performance.
+
+<div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
+
+### Overview of Game Functions
 
 <div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
