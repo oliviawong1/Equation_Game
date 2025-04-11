@@ -154,7 +154,7 @@ After each round, the loop repeats until the user enters quit, which ends the ga
 <div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
 
 ### Overview of Game Functions
-The ``game_functions.py``` module contains the core logic and functionality of the Equation Game. The following section outlines the key functions and their roles within the program.
+The ```game_functions.py``` module contains the core logic and functionality of the Equation Game. The following section outlines the key functions and their roles within the program.
 
 #### play_game() 
 This is the main loop of the game, which incorporates everything together by calling all the other functions in the right order to ensure the game is running smoothly. 
@@ -173,7 +173,5 @@ Checks whether the user's input is a valid number. If the input cannot be conver
 
 #### check_answer(user_answer, correct_answer)
 Check_answer compares the validated user input to the correct answer. It returns a Boolean value (True if correct, False otherwise) and also provides feedback.
-
-
 
 <div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
