@@ -4,7 +4,7 @@
 ### Introduction
 The Equation Game is a simple, interactive maths quiz that helps you practise basic arithmetic by solving equations with a missing value (𝑥), such as ```3 × 𝑥 = 12```. This beginner-friendly game runs in the terminal, keeps tracks of your score, and shows the correct answers after each question. No prior experience with Python or programming is required.
 
-### Table of Contents
+### Contents
 - [Requirements](#requirements)
 - [How to Run the Game](#how-to-run-the-game)
 - [How to Play the Game](#how-to-play-the-game)
@@ -116,5 +116,4 @@ if __name__ == "__main__":
   This module contains the core logic of the game. It includes all the key features within functions such as generating random equations, prompting and validating user input, and tracking the player's score. 
 
 
-<div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
 
