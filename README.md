@@ -95,11 +95,11 @@ This document provides a technical overview of the Python-based terminal program
 
 ### Table of Contents
 - [File Structure](#file-structure)
-- [Game-Logic](#game-logic)
+- [Game Logic](#game-logic)
 - [Functions Overview](#functions-overview)
 
 ### File Structure
-The Equation Game is organised into two main Python files:
+The Equation Game consists into two main Python files:
 
 - ```main.py```
 
