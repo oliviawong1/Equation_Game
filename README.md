@@ -160,7 +160,7 @@ The ```game_functions.py``` module contains the core logic and functionality of 
 This is the main loop of the game, which incorporates everything together by calling all the other functions in the right order to ensure the game is running smoothly. 
 
 #### welcome_message()
-Displays the game's title and instructions at the start of the game. This function is called at the start of  ```play_game() ``` so users are aware of what to do.
+Displays the game's title and instructions at the start of the game. This function is called at the start of ```play_game()``` to ensure users understand what to do.
 
 #### generate_equation() 
 This function creates a random mathematical equation with one missing number, using one of the basic arithmetic operations: addition (+), subtraction (−), or multiplication (×). It returns the equation and the correct answer as a string so it can be checked and compared later.
