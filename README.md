@@ -131,10 +131,10 @@ As outlined below, the Equation Game follows a straightforward terminal-based lo
 The game starts when main.py is executed. This calls the ```play_game()``` function from the```game_functions.py``` file, initiating the main game loop.
 
 #### 2. Equation Creation
-A random mathematical equation is generated involving basic arithmetic operations, such as addition (+), subtraction (-), or multiplication (×). The equation is then displayed ine the terminal for the user to solve.
+A random mathematical equation is generated involving basic arithmetic operations, such as addition (+), subtraction (-), or multiplication (×). The equation is then displayed in the terminal for the user to solve.
 
 #### 3. User Prompt and Input
-The user is prompted to sovle the displayed equation and enter their answer via the terminal input.
+The user is prompted to solve the displayed equation and enter their answer via the terminal input.
 
 #### 4. Input Validation and Feedback 
 The program checks whether the user's input is numeric. If the input is invalid, the user is prompted to try again. Once a valid input is entered, it will compare the user input to the correct answer. 
@@ -142,9 +142,9 @@ The program checks whether the user's input is numeric. If the input is invalid,
 Feedback is provided immediately to inform the user if their answer is correct or incorrect, along with the correct answer if incorrect.
 
 #### 5. Scoring
-The game keeps track of the user's score, whcih increase by 1 point for each correct answer. The current score with feedback is displayed after each round.
+The game keeps track of the user's score, which increase by 1 point for each correct answer. The current score with feedback is displayed after each round.
 
 #### 6. Game Continuation or Exit  
-After each round, the loop repeats until the user enters ```quit``` which ends the game with a final score and messgae based performance.
+After each round, the loop repeats until the user enters ```quit``` which ends the game with a final score and message based performance.
 
 <div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
