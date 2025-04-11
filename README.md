@@ -90,15 +90,31 @@ Good try
 
 ## Technical Documentation
 
+### Introduction
+This document provides a technical overview of the Python-based terminal program, the Equation Game. It has been created for developers or reviewers with a basic understanding of Python and outlines the program's structure, core logic and key functions.
+
 ### Table of Contents
 - [File Structure](#file-structure)
-- [How to Run the Game](#how-to-run-the-game)
-- [How to Play the Game](#how-to-play-the-game)
-- [How to Quit the Game](#how-to-quit-the-game)
-- [Example Gameplay](#example-gameplay)
+- [Game-Logic](#game-logic)
+- [Functions Overview](#functions-overview)
 
 ### File Structure
-The Equation Game consists of two main Python files:
-- ```main.py```: 
+The Equation Game is organised into two main Python files:
+
+- ```main.py```
+
+  This script functions as the game launcher. It imports the ```play_game()``` function from ```game_functions.py``` and executes it when the script is run.
+  
+```
+from game_functions import play_game
+if __name__ == "__main__":
+    play_game()
+```
+
 - ```game_functions.py```
+
+  This module contains the core logic of the game. It includes all the key features within functions such as generating random equations, prompting and validating user input, and tracking the player's score. 
+
+
+<div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
 
