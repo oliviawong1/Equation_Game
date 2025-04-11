@@ -87,3 +87,18 @@ Keep practising
 Good try
 ```
 <div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
+
+## Technical Documentation
+
+### Table of Contents
+- [File Structure](#file-structure)
+- [How to Run the Game](#how-to-run-the-game)
+- [How to Play the Game](#how-to-play-the-game)
+- [How to Quit the Game](#how-to-quit-the-game)
+- [Example Gameplay](#example-gameplay)
+
+### File Structure
+The Equation Game consists of two main Python files:
+- ```main.py```: 
+- ```game_functions.py```
+
