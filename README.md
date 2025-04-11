@@ -93,9 +93,6 @@ Good try
 ```
 <div align="right"><kbd><a href="#user-manual-overview">↑ Back to top ↑</a></kbd></div>
 
-
-<div align="right"><kbd><a href="#user-manual-overview">↑ Back to top ↑</a></kbd></div>
-
 ## Technical Documentation
 
 ### Introduction
