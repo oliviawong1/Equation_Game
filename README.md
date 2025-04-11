@@ -97,7 +97,7 @@ This document provides a technical overview of the Equation Game, a Python-based
 
 ### Table of Contents
 - [File Structure](#file-structure)
-- [Game Flow and Logic](#game-flow-andlogic)
+- [Game Flow and Logic](#game-flow-and-logic)
 - [Functions Overview](#functions-overview)
 
 ### File Structure
@@ -128,7 +128,7 @@ if __name__ == "__main__":
 As outlined below, the Equation Game follows a straightforward terminal-based logic flow.
 
 #### 1. Launching the Game
-The game starts when main.py is executed. This calls the ``play_game()``` function from the```game_functions.py``` file, initiating the main game loop.
+The game starts when main.py is executed. This calls the ```play_game()``` function from the```game_functions.py``` file, initiating the main game loop.
 
 #### 2. Equation Creation
 A random mathematical equation is generated involving basic arithmetic operations, such as addition (+), subtraction (-), or multiplication (×). The equation is then displayed ine the terminal for the user to solve.
